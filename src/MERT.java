@@ -4,6 +4,8 @@ public class MERT {
 
         System.out.println("merhaba 1");
 
+        System.out.println("selamun aleyküm");
+
 
     }
 }
